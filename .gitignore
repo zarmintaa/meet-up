@@ -107,3 +107,4 @@ fabric.properties
 .idea/.gitignore
 .idea/*
 node_modules
+.next/*
