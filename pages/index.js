@@ -10,7 +10,7 @@ const DUMMY_MEETUPS = [
     description: "This is The First Meetup",
   },
   {
-    id: "21",
+    id: "m2",
     title: "Second Meetup",
     image: "https://source.unsplash.com/random/1080x800",
     address: "Bekasi, Indonesia",
