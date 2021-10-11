@@ -1,6 +1,7 @@
 import MeetupDetail from "../../components/meetups/MeetupDetail";
 import { MongoClient, ObjectId } from "mongodb";
 import { Head } from "next/document";
+import { Fragment } from "react";
 
 const MeetupDetails = (props) => {
   return (
